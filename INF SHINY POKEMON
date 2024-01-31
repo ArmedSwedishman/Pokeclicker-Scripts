@@ -1,0 +1,3 @@
+for (let i = 0; i <6; i++) {
+    App.game.oakItems.itemList[5].bonusList[i]=8192;
+}
